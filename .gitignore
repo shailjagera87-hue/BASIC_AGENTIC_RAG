@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Data
+data/faiss/
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
